@@ -1,5 +1,5 @@
-#include<stdio.h>
+#nclude<stdio.h>
 void main()
 {
-printf(" i am doing IoT based Alert System \n");
+pintf(" i am doing IoT based Alert System \n");
 }
